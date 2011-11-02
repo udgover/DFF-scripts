@@ -1,0 +1,3 @@
+Repositories providing several scripts related to DFF
+
+dff-dependencies: fetch, extract, configure, install in third-parties folders in DFF install path libbfio, libewf and libpff
